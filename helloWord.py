@@ -1,1 +1,3 @@
-print("Git is Awesome")
+insta = input("Type: ")
+
+print(insta)
